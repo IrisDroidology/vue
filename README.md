@@ -73,23 +73,27 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+With this project, we have the following aims:
+* Provide a way for users to log in, sign up and manage their "Kinetic account"
+* Provide the start for the [Arcadia](http://ar.skinetics.tech/stellarios/hydejack/django/python/games/2020-05-05-django-games-library/) project & foundation for the game management
+* Control, interact with and manage the user's applications designed and integrated with the Arcadia game/app service, by Signal Kinetics
+* Provide an administration back-end for SK team members to interact with our programs and our other tools:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+1. Notion
+2. Airtable
+3. GSuite
+4. Git
+5. Jira
+6. Jekyll/Utteranc.es/Wordpress
+7. Memberstack
+8. Slack/Keybase/Matrix
+9. Other games and our game engine
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+Thanks to the following projects & people:
+* [README Template](https://github.com/othneildrew/Best-README-Template) by othneildrew
+* [Memberstack](http://memberstack.com) web login program
 
 
 
